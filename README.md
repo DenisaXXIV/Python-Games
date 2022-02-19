@@ -3,7 +3,7 @@
   <summary><b>Pacman</b></summary> 
 <img src="https://github.com/DenisaXXIV/Python-Games/blob/master/Pacman.py/util/images/board1.png" width="370"/> <img src="https://github.com/DenisaXXIV/Python-Games/blob/master/Pacman.py/util/images/board2.png" width="370"/>
 
-<img src="https://github.com/DenisaXXIV/Python-Games/blob/master/Pacman.py/util/images/board3.png" width="370"/>
+<img src="https://github.com/DenisaXXIV/Python-Games/blob/master/Pacman.py/util/images/board3.png" width="370"/> <img src="https://github.com/DenisaXXIV/Python-Games/blob/master/Pacman.py/util/images/board4.png" width="370"/>
 </details>
 
 <details>
